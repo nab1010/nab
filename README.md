@@ -10,3 +10,4 @@ My email: [nab1010.work@gmail.com](MAILTO:nab1010.work@gmail.com)
 
 Programming Languages & Tools: ![GitHub Pipenv locked Python version](https://img.shields.io/github/pipenv/locked/python-version/nab1010/nab1010?logo=python&style=flat-square)
 ![nab1010's GitHub stats](https://github-readme-stats.vercel.app/api?username=nab1010&show_icons=true&theme=radical)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=nab1010&left_color=green&right_color=red)

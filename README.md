@@ -9,4 +9,4 @@ My email: [nab1010.work@gmail.com](MAILTO:nab1010.work@gmail.com)
 
 ![nab1010's GitHub stats](https://github-readme-stats.vercel.app/api?username=nab1010&show_icons=true&theme=radical)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nab1010=compact)]

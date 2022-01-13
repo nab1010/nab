@@ -18,6 +18,6 @@ Hi, I'm _nab_ (NAB), a student at Hanoi University of Science and Technology ([H
 ![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=CSS3&logoColor=white&color=3f86cf)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=1374c2)
 
-## <img height="247" src="./assets/naruto.gif"/>
+## <img height="247" src="https://github.com/nab1010/nab1010/blob/d05b1aaa45506e20ff2bcd2018610ec0e59ba08f/assets/naruto.gif"/>
 ![nab1010's GitHub stats](https://github-readme-stats.vercel.app/api?username=nab1010&show_icons=true&theme=radical)
 

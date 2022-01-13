@@ -21,6 +21,7 @@ Hi, I'm _nab_ (NAB), a student at Hanoi University of Science and Technology ([H
 ![](https://img.shields.io/badge/CSS3-informational?style=flat&logo=CSS3&logoColor=3f86cf&color=gray)
 ![](https://img.shields.io/badge/Javascript-informational?style=flat&logo=javascript&&logoColor=e4d04b&color=gray)
 ![](https://img.shields.io/badge/PHP-informational?style=flat&logo=php&&logoColor=7175aa&color=gray)
+![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=mysql&&logoColor=2f9ff2&color=gray)
 ![](https://img.shields.io/badge/VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=1374c2&color=gray)
 ![](https://img.shields.io/badge/Github-informational?style=flat&logo=github&logoColor=black&color=gray)
 ![](https://img.shields.io/badge/Photoshop-informational?style=flat&logo=Adobe+Photoshop&&logoColor=2f9ff2&color=gray)

@@ -1,6 +1,6 @@
 
 # Wellcome to my Github
-![](https://visitor-badge.glitch.me/badge?page_id=nab1010&left_color=gray&right_color=purple)
+![](https://visitor-badge.glitch.me/badge?page_id=nabang1010&left_color=gray&right_color=purple)
 
 Hi, I'm **Bang** (_@nab1010_), a student at Hanoi University of Science and Technology ([**HUST**](https://www.hust.edu.vn/)). I am a researcher at Smart Application And Network System Laboratory ([**SANSlab**](https://sanslab.vn/)) - School of Electronics and Telecommunications ([**SET**](http://set.hust.edu.vn/)). My research interests are in Machine Learning, Deep Learning and Computer Vision.
 
@@ -31,5 +31,5 @@ Hi, I'm **Bang** (_@nab1010_), a student at Hanoi University of Science and Tech
 
 ## <img height="247" src="https://github.com/nab1010/nab1010/blob/d05b1aaa45506e20ff2bcd2018610ec0e59ba08f/assets/naruto.gif"/>
 
-![nab1010's GitHub stats](https://github-readme-stats.vercel.app/api?username=nab1010&show_icons=true&theme=radical)
+![nab1010's GitHub stats](https://github-readme-stats.vercel.app/api?username=nabang1010&show_icons=true&theme=radical)
 
